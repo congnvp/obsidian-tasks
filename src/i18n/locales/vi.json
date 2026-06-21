@@ -225,42 +225,42 @@
     "searches": {
       "enableCustomSearches": {
         "description": {
-          "line1": "",
-          "line2": "",
-          "line3": "",
-          "line4": ""
+          "line1": "Bật '{{filterByFunction}}', '{{sortByFunction}}', và '{{groupByFunction}}', sẽ chạy truy vấn JavaScript trong Tasks.",
+          "line2": "JavaScript độc hại trong truy vấn Tasks hoặc tệp Markdown có thể chạy bên trong Obsidian và truy cập hoặc sửa đổi nội dung kho lưu trữ, tệp cục bộ hoặc các tài nguyên hệ thống khác của bạn.",
+          "line3": "Chỉ bật tùy chọn này nếu bạn tin tưởng vào nội dung hiện tại và tương lai của kho lưu trữ này, bao gồm cả các tệp mà bạn có thể tải xuống, sao chép hoặc đồng bộ hóa sau này từ người khác.",
+          "line4": "Cài đặt này chỉ được lưu trữ trên thiết bị này; hãy bật riêng trên từng thiết bị mà bạn sử dụng kho lưu trữ này."
         },
-        "name": ""
+        "name": "Bật tìm kiếm tùy chỉnh"
       },
-      "heading": ""
+      "heading": "Tìm kiếm"
     },
     "searchResults": {
-      "heading": "",
+      "heading": "Kết quả tìm kiếm",
       "taskCountLocation": {
-        "description": "",
-        "name": "",
+        "description": "Chọn xem đếm số hiệm vụ được hiện ở đầu hay cuối kết quả tìm kiếm.",
+        "name": "Vị trí đếm số nhiệm vụ",
         "options": {
-          "bottom": "",
-          "top": ""
+          "bottom": "Cuối",
+          "top": "Đầu"
         }
       }
     },
     "seeTheDocumentation": "Xem tài liệu",
     "statuses": {
       "collections": {
-        "anuppuccinTheme": "Theme AnuPpuccin",
-        "auraTheme": "Theme Aura",
-        "borderTheme": "Theme Border",
+        "anuppuccinTheme": "Chủ đề AnuPpuccin",
+        "auraTheme": "Chủ đề Aura",
+        "borderTheme": "Chủ đề Border",
         "buttons": {
           "addCollection": {
             "name": "{{themeName}}: Thêm {{numberOfStatuses}} Trạng thái được hỗ trợ"
           }
         },
-        "ebullientworksTheme": "Theme Ebullientworks",
-        "itsThemeAndSlrvbCheckboxes": "Theme ITS & SlRvb Checkboxes",
-        "lytModeTheme": "Theme LYT Mode (Chỉ chế độ tối)",
-        "minimalTheme": "Theme Minimal",
-        "thingsTheme": "Theme Things"
+        "ebullientworksTheme": "Chủ đề Ebullientworks",
+        "itsThemeAndSlrvbCheckboxes": "Chủ đề ITS & SlRvb Checkboxes",
+        "lytModeTheme": "Chủ đề LYT Mode (Chỉ chế độ tối)",
+        "minimalTheme": "Chủ đề Minimal",
+        "thingsTheme": "Chủ đề Things"
       },
       "coreStatuses": {
         "buttons": {
